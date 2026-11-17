@@ -160,7 +160,79 @@ Automated Continuous Integration is configured via `.github/workflows/ci.yml`. O
 ---
 
 ## 📂 Project Structure
+# TEAM 14 – SECURE ONLINE CODE EXECUTION PLATFORM
 
+# SPRINT 1 – INITIAL DEVELOPMENT
+
+**Duration:** 02 November – 08 November 2026
+
+## 1. Sprint Objective
+To establish the project structure and develop the initial sandbox, application components and supporting documentation.
+
+## 2. Work Completed
+
+| Date | Work / Commit Name | Files / Deliverables | Submitted By |
+|---|---|---|---|
+| 02-11-2026 | Add files via upload; Delete config.py | Initial project files, config.py (deleted) | prathyushg129 |
+| 03-11-2026 | Add files via upload | Project files | pradyumnbidari |
+| 04-11-2026 | Add files via upload | Project files | pradyunurs |
+| 06-11-2026 | Add sandbox development files by Prashant Naik | Sandbox development files | Prashantnaik333 |
+| 06-11-2026 | Merge pull request #1 | Sandbox integration | pradyumnbidari |
+
+## 3. Sprint Deliverables
+- Initial project structure.
+- Sandbox development and integration.
+- Initial application components.
+- Supporting project files.
+
+**Status:** Completed.
+
+---
+
+# SPRINT 2 – TESTING AND INTEGRATION
+
+**Duration:** 09 November – 17 November 2026
+
+## 1. Sprint Objective
+To implement functional and security testing, integrate API routes, improve the CI workflow and complete system documentation.
+
+## 2. Work Completed
+
+| Date | Work / Commit Name | Files / Deliverables | Submitted By |
+|---|---|---|---|
+| 12-11-2026 | Add files via upload | Project files | pradyunurs |
+| 13-11-2026 | Add functional and security testing by Prashant Naik | Testing files | Prashantnaik333 |
+| 13-11-2026 | Merge pull request #2 | Testing integration | Prashantnaik333 |
+| 14-11-2026 | Add API routes and functional tests | API and test files | pradyumnbidari |
+| 14-11-2026 | Add remaining application files and CI workflow | Application files, CI workflow | Prashantnaik333 |
+| 14-11-2026 | Merge pull requests #3 and #4 | API and application integration | pradyumnbidari |
+| 15-11-2026 | Add files via upload and update application files | Uploaded files and selected file deletions | pradyunurs |
+| 16-11-2026 | Add files via upload | Project files | pradyunurs |
+| 17-11-2026 | System architecture upload and file submissions | System architecture and uploaded documents | pradyumnbidari, prathyushg129 |
+
+## 3. Sprint Deliverables
+- Functional and security testing.
+- API routes and integration.
+- CI workflow configuration.
+- Application updates.
+- System architecture documentation.
+
+**Status:** Completed.
+
+---
+
+# OVERALL SPRINT SUMMARY
+
+| Particulars | Sprint 1 | Sprint 2 |
+|---|---|---|
+| Duration | 02–08 Nov 2026 | 09–17 Nov 2026 |
+| Main Focus | Initial development | Testing and integration |
+| Main Deliverable | Sandbox and application foundation | API, testing and CI workflow |
+| Status | Completed | Completed |
+
+**Repository:** https://github.com/pradyumnbidari/team14-secure-code-execution
+
+**Team:** 14
 ```
 SE_MINIPROJECT/
 ├── app/
